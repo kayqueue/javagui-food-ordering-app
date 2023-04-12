@@ -1,4 +1,5 @@
-CSIT 314 - Software Development Methodologies (Q2 2022) 
+CSIT 314 - Software Development Methodologies
+Project is done by 6 members
 Grade: 38.5/40
 
 --- Project ---
